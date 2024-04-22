@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://x.gd/3yJNX"
 
 
+################################ Canais | ABERTO ##################################
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC TV Maringa HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
@@ -383,7 +385,7 @@ https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT.V
 https://cr7v.short.gy/manotv/GOAT/Index.m3u8
 
-############################################################################ AO VIVO AGORA 
+##################################### AO VIVO  #######################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
@@ -457,13 +459,13 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://r-br.nxtv.com.br/CNN_BR/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL 480p
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713822841/ei/GYgmZrGuD6SNobIPqZmrmAQ/ip/2804:2c14:39:4780:782c:ce2b:7fea:50ef/id/yxeiFB3Ym7A.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-gxqxpqxp5uxaxcg-gxje.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/771250/mh/GM/mm/44/mn/sn-gxqxpqxp5uxaxcg-gxje/ms/lva/mv/m/mvi/1/pl/33/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1713800918/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAJ-nh7mkxmc6f9-9pkgsl2-EL7iuV0b0wKjiXyTnu0HUAiAFTNOkqAk2b-M_uuKMl6njYh1MCkhDdEbFTNKFr2dkPA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgUs-YO_ECEHFixyR1tSC6WOtOhsFEHjAE30H38cfPzaQCIE5eZ8UsoHoq23gsvqY3JdBtMEP1ybOop98PsculWfTp/playlist/index.m3u8
+https://cdn-1.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL HD
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713823815/ei/54smZs7ZH4iO-LAPvZyE2As/ip/2804%3A2c14%3A39%3A4780%3A782c%3Ace2b%3A7fea%3A50ef/id/yxeiFB3Ym7A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMoo1ReF_pIv1zsLIiKmeFwAYlPoHGn9n9d1p8UdTtY2AiAxo75LH1uI7vhYFVpJyh2Q_EIIMrZUHYGXJzaH_rN9YQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
