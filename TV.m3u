@@ -24,6 +24,9 @@ http://185.150.190.225:16263/
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Verdes Mares 
 http://195.128.248.216:8080/tim334/as514d5as/29578
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Asa_Branca.png" group-title="Canais | ABERTO",TV ASA BRANCA
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTQxNTI2MTMsImlhdCI6MTcxNDA2NjIxMywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJjMGRjNjhkZi1jMDVkLTQxYWQtODQwYS1kNTA3ZGJiYTg0MmEiLCJwYXRoIjoiL251L2YoaT0yKS9nbG9iby1jcnIvcGxheWxpc3QubTN1OCJ9.K8bO5SEFiPg1Ntt2X1SR6rKM00tzSyjl5sOdflzmeE4osJzOSXSse64GyU93n2Od44CsoKgjUXNO5nflrhXXSQQyXr5efuP2iP_Go-4yF9RctxwmuGNy53oCiAFJTjiOjFIuhHuBtjtvvrhCN55N1xZYLjwjEkivr0J-v7hV-zU2__afswtyDrSqdnlZds9-ctWaVdMvH_3QqXvWDodBbgU89Pl3Jjszzb6l-4vHD_TpyvNfPUmhiKVqm-sATFXOHWUIr6yNqw8tvqPnKB_EZJuvzIKjU5ywHumUZ_Auqk--GAGzMpRmtqG-UanSjIYv0laJJc2iF3mouyyQ1gGZAw/nu/f(i=2)/globo-crr/globo-crr-audio_1=96000-video=2262976.m3u8
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Nordeste FHD
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/15
 
@@ -255,16 +258,16 @@ http://195.128.248.216:8080/tim334/as514d5as/22614
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD [Alter]
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD [Alter]
 http://195.128.248.216:8080/tim334/as514d5as/18660
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD [Alter]
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD [Alter]
 http://195.128.248.216:8080/tim334/as514d5as/22391
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
