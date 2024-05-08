@@ -1,0 +1,14 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id=" A&E " tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/A%26E%20NETWORK.png" group-title="Canais | FILMES",A&E 
+http://199.127.60.83:16002
+#EXTINF:-1 tvg-id=" CINEMAX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/CINEMAX.png" group-title="Canais | FILMES",CINEMAX
+http://199.127.60.83:16004
+#EXTINF:-1 tvg-id=" MEGAPIX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png" group-title="Canais | FILMES",MEGAPIX
+http://199.127.60.83:16048
+#EXTINF:-1 tvg-id=" SONY CHANNEL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SONY%20CHANNEL.png" group-title="Canais | FILMES",SONY CHANNEL
+http://64.31.40.14:14058
+#EXTINF:-1 tvg-id=" TELECINE ACTION" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TELECINE%20ACTION.png" group-title="Canais | FILMES",TELECINE ACTION
+http://199.127.60.83:16056
