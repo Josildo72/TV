@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" A&E " tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/A%26E%20NETWORK.png" group-title="Canais | FILMES",A&E 
+#EXTINF:-1 tvg-id=" A&E " tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/A&E%20NETWORK.png?raw=true" group-title="Canais | FILMES",A&E 
 http://199.127.60.83:16002
-#EXTINF:-1 tvg-id=" AMC" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/AMC.png" group-title="Canais | FILMES",AMC
+#EXTINF:-1 tvg-id=" AMC" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/AMC.png?raw=true" group-title="Canais | FILMES",AMC
 http://199.127.60.83:16004
-#EXTINF:-1 tvg-id=" CINEMAX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/CINEMAX.png" group-title="Canais | FILMES",CINEMAX
+#EXTINF:-1 tvg-id=" CINEMAX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/CINEMAX.png?raw=true" group-title="Canais | FILMES",CINEMAX
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
-#EXTINF:-1 tvg-id=" DISNEY CHANNEL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/DISNEY%20CHANNEL.png" group-title="Canais | FILMES",DISNEY CHANNEL
+#EXTINF:-1 tvg-id=" DISNEY CHANNEL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/DISNEY%20CHANNEL.png?raw=true" group-title="Canais | FILMES",DISNEY CHANNEL
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-#EXTINF:-1 tvg-id=" MEGAPIX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/MEGAPIX.png" group-title="Canais | FILMES",MEGAPIX
+#EXTINF:-1 tvg-id=" MEGAPIX" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/MEGAPIX.png?raw=true" group-title="Canais | FILMES",MEGAPIX
 http://199.127.60.83:16048
-#EXTINF:-1 tvg-id=" PARAMOUNT NETWORK " tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png" group-title="Canais | FILMES",PARAMOUNT NETWORK 
+#EXTINF:-1 tvg-id=" PARAMOUNT NETWORK " tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png?raw=true" group-title="Canais | FILMES",PARAMOUNT NETWORK 
 http://199.127.60.83:16058
-#EXTINF:-1 tvg-id=" SONY CHANNEL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SONY%20CHANNEL.png" group-title="Canais | FILMES",SONY CHANNEL
+#EXTINF:-1 tvg-id=" SONY CHANNEL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SONY%20CHANNEL.png?raw=true" group-title="Canais | FILMES",SONY CHANNEL
 http://199.127.60.83:16063
-#EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SPACE.png" group-title="Canais | FILMES",SPACE
+#EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SPACE.png?raw=true" group-title="Canais | FILMES",SPACE
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
-#EXTINF:-1 tvg-id=" TELECINE ACTION" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TELECINE%20ACTION.png" group-title="Canais | FILMES",TELECINE ACTION
+#EXTINF:-1 tvg-id=" TELECINE ACTION" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TELECINE%20ACTION.png?raw=true" group-title="Canais | FILMES",TELECINE ACTION
 http://199.127.60.83:16056
