@@ -12,7 +12,7 @@ http://199.127.60.83:16020
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
 #EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="EPTVSuldeMinas.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20EPTV.png?raw=true" group-title="Canais | ABERTO",GLOBO EPTV
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
-#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="EPTVSuldeMinas.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTO",GLOBO MG
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="RedeGlobo.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTO",GLOBO MG
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 #EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="RBSTVPortoAlegre.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20RBSTV.png?raw=true" group-title="Canais | ABERTO",GLOBO RBSTV 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
@@ -28,7 +28,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD BH
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD SP
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TVPampa.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/REDE%20TV.png?raw=true" group-title="Canais | ABERTO",RedeTV  PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
