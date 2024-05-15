@@ -1,65 +1,106 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml,https://xmltv.tvkaista.net/guides/i.mjh.nz_pluto.xml"
 
-#####		🔶CATEGORIA  |  ABERTO🔶        ####
+#####		🔶CATEGORIA  |  ABERTOS🔶        ####
 
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band São Paulo" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/BAND.png?raw=true" group-title="Canais | ABERTO",BAND
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band São Paulo" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/BAND.png?raw=true" group-title="Canais | ABERTOS",BAND
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band São Paulo" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/BAND.png?raw=true" group-title="Canais | ABERTO",BAND MINAS
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band São Paulo" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/BAND.png?raw=true" group-title="Canais | ABERTOS",BAND MINAS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TVGloboSaoPaulo.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTO",GLOBO 
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TVGloboSaoPaulo.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTOS",GLOBO 
 http://199.127.60.83:16020
-#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="TVGloboBrasilia.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTO",GLOBO DF
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="TVGloboBrasilia.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTOS",GLOBO DF
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
-#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="EPTVSuldeMinas.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20EPTV.png?raw=true" group-title="Canais | ABERTO",GLOBO EPTV
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="EPTVSuldeMinas.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20EPTV.png?raw=true" group-title="Canais | ABERTOS",GLOBO EPTV
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="RedeGlobo.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTO",GLOBO MG
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="RedeGlobo.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO.png?raw=true" group-title="Canais | ABERTOS",GLOBO MG
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="RBSTVPortoAlegre.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20RBSTV.png?raw=true" group-title="Canais | ABERTO",GLOBO RBSTV 
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="RBSTVPortoAlegre.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20RBSTV.png?raw=true" group-title="Canais | ABERTOS",GLOBO RBSTV 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
-#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="RPCTVCuritiba.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20RPC.png?raw=true" group-title="Canais | ABERTO",GLOBO RPC PARANÁ
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="RPCTVCuritiba.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/GLOBO%20RPC.png?raw=true" group-title="Canais | ABERTOS",GLOBO RPC PARANÁ
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-#EXTINF:-1 tvg-id="NEW BRASIL" tvg-name="NEW BRASIL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/NEW%20BRASIL.png?raw=true" group-title="Canais | ABERTO",NEW BRASIL
+#EXTINF:-1 tvg-id="NEW BRASIL" tvg-name="NEW BRASIL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/NEW%20BRASIL.png?raw=true" group-title="Canais | ABERTOS",NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-#EXTINF:-1 tvg-id="NEW BRASIL" tvg-name="NEW BRASIL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/NEW%20BRASIL.png?raw=true" group-title="Canais | ABERTO",NEW BRASIL
+#EXTINF:-1 tvg-id="NEW BRASIL" tvg-name="NEW BRASIL" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/NEW%20BRASIL.png?raw=true" group-title="Canais | ABERTOS",NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTOS",RECORD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTOS",RECORD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD BH
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTOS",RECORD BH
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTO",RECORD SP
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTOS",RECORD SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TVPampa.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/REDE%20TV.png?raw=true" group-title="Canais | ABERTO",RedeTV  PR HD
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TVPampa.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/REDE%20TV.png?raw=true" group-title="Canais | ABERTOS",RedeTV  PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SBT.png?raw=true" group-title="Canais | ABERTO",SBT SD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SBT.png?raw=true" group-title="Canais | ABERTOS",SBT SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTO",TV APARECIDA
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTOS",TV APARECIDA
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTO",TV APARECIDA
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTOS",TV APARECIDA
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20CULTURA.png?raw=true" group-title="Canais | ABERTO",TV Cultura CATVE
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20CULTURA.png?raw=true" group-title="Canais | ABERTOS",TV Cultura CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20GAZETA.png?raw=true" group-title="Canais | ABERTO",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20GAZETA.png?raw=true" group-title="Canais | ABERTOS",TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
-#####		🔶CATEGORIA  |  FILMES🔶        ####
+#####		🔶FILMES  |  SÉRIES🔶        ####
 
-#EXTINF:-1 tvg-id="AE.br" tvg-name="AandE" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/A&E%20NETWORK.png?raw=true" group-title="Canais | FILMES",A&E 
+#EXTINF:-1 tvg-id="AE.br" tvg-name="AandE" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/A&E%20NETWORK.png?raw=true" group-title="FILMES | SÉRIES",A&E 
 http://199.127.60.83:16002
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC Brasil" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/AMC.png?raw=true" group-title="Canais | FILMES",AMC
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC Brasil" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/AMC.png?raw=true" group-title="FILMES | SÉRIES",AMC
 http://199.127.60.83:16004
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/CINEMAX.png?raw=true" group-title="Canais | FILMES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/CINEMAX.png?raw=true" group-title="FILMES | SÉRIES",CINEMAX
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/DISNEY%20CHANNEL.png?raw=true" group-title="Canais | FILMES",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/DISNEY%20CHANNEL.png?raw=true" group-title="FILMES | SÉRIES",DISNEY CHANNEL
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/MEGAPIX.png?raw=true" group-title="Canais | FILMES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/MEGAPIX.png?raw=true" group-title="FILMES | SÉRIES",MEGAPIX
 http://199.127.60.83:16048
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png?raw=true" group-title="Canais | FILMES",PARAMOUNT NETWORK 
+
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png"group-title="FILMES | SÉRIES",NCIS|PlutoTV
+https://abrir.link/wxhst
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="NSI MIAMI" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png"group-title="FILMES | SÉRIES",NSI MIAMI|PlutoTV
+https://abrir.link/uVOtI
+
+#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png?raw=true" group-title="FILMES | SÉRIES",PARAMOUNT NETWORK 
 http://199.127.60.83:16058
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SONY%20CHANNEL.png?raw=true" group-title="Canais | FILMES",SONY CHANNEL
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SONY%20CHANNEL.png?raw=true" group-title="FILMES | SÉRIES",SONY CHANNEL
 http://199.127.60.83:16063
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SPACE.png?raw=true" group-title="Canais | FILMES",SPACE
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SPACE.png?raw=true" group-title="FILMES | SÉRIES",SPACE
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TELECINE%20ACTION.png?raw=true" group-title="Canais | FILMES",TELECINE ACTION
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TELECINE%20ACTION.png?raw=true" group-title="FILMES | SÉRIES",TELECINE ACTION
 http://199.127.60.83:16056
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TNT.png?raw=true" group-title="FILMES | SÉRIES",TNT
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/73
+
+
+
+
+
+
+#####		🔶CANAIS | NOTÍCIAS🔶        ####
+
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNNBrasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1920px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
+http://209.222.97.92:16436/BloboNews
+
+#EXTINF:-1 tvg-id="JPNews" tvg-name="JPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="CANAIS | NOTÍCIAS",JPNews
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="JPNews" tvg-name="JPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="CANAIS | NOTÍCIAS",JPNews
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br"" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1920px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
+https://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
+
+
+
+
+
+
+
+
+
+
