@@ -41,7 +41,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20CULTURA.png?raw=true" group-title="Canais | ABERTOS",TV Cultura CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/391px-TV_Gazeta.svg.png" group-title="Canais | ABERTOS",TV Gazeta
-https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
 #####		🔶FILMES  |  SÉRIES🔶        ####
 
@@ -79,7 +79,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/73
 
 #####		🔶Canais | NOTÍCIAS🔶        ####
 
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1024px-BandNewsTV2024.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNNBrasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
@@ -100,4 +100,16 @@ https://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Amor Além da Vida" tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/93/32/14/20249359.jpg" group-title="On Demand",Amor Além da Vida
 https://cdnst29.tokyvideo.com/videos/335/335657/mp4/a9e99aae77cb0036b11cfc4f7ec8d441140850805766766cd89bd76f6e565eea.mp4?secure=Nu3wcr6kEDk1Sxsy4DhNTg%3D%3D%2C1715960885
+
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Anjos" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/13/12/09/20/47/582823.jpg" group-title="On Demand",Cidade dos Anjos
+https://cinez.club/stream/1d884c1534d6103296ba308a0cd88508.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou" tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/95/72/20122043.jpg" group-title="On Demand",...E o Vento Levou
+https://ia600307.us.archive.org/27/items/eoventolevou1939dubladoelegendado/...E%20o%20Vento%20Levou%20%281939%29%20Dublado%20e%20Legendado.mp4?cnt=0
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Carta de Amor" tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/96/96/19/20498992.jpg" group-title="On Demand",Uma Carta de Amor
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715908704/ei/AFxGZqGsCpmB-LAP_7uPoAc/ip/2804%3A2c14%3A39%3A4780%3A8c23%3Ae324%3A14fe%3A4e65/id/084ecd474e7de544/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gxqxpqxp5uxaxcg-gxje.googlevideo.com/mh/6J/mm/31%2C29/mn/sn-gxqxpqxp5uxaxcg-gxje%2Csn-pmcg-4vgs/ms/au%2Crdu/mv/m/mvi/2/pcm2cms/yes/pl/33/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/demuxed/1/tts_caps/1/maudio/1/gcr/br/initcwndbps/532500/vprv/1/go/1/rqh/5/mt/1715886770/fvip/9/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANgU-EPTZCNP34W1AYYkta14r1k26uIGcp2dBm0C8XMdAiBnFTXE7WaNLHe2q0UZwdP8cH_j7Q1Y80NZgF6fJbMtxg%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps/lsig/AHWaYeowRgIhAJDkY5tV-kfj7yb_szlv1htRuQVo06e6qqFZMNuTO79SAiEAqQiPQBCH9EkByBrzZbWEuwIXfVXv4r-jz0W8BhIxlcs%3D/file/index.m3u8
+
+
 
