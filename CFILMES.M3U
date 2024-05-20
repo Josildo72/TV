@@ -31,7 +31,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/RECORD.png?raw=true" group-title="Canais | ABERTOS",RECORD SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TVPampa.br" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/REDE%20TV.png?raw=true" group-title="Canais | ABERTOS",RedeTV  PR HD
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/SBT.png?raw=true" group-title="Canais | ABERTOS",SBT SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTOS",TV APARECIDA
@@ -39,9 +39,9 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20APARECIDA.png?raw=true" group-title="Canais | ABERTOS",TV APARECIDA
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/TV%20CULTURA.png?raw=true" group-title="Canais | ABERTOS",TV Cultura CATVE
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/391px-TV_Gazeta.svg.png" group-title="Canais | ABERTOS",TV Gazeta
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #####		🔶FILMES  |  SÉRIES🔶        ####
 
@@ -56,9 +56,9 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/MEGAPIX.png?raw=true" group-title="FILMES | SÉRIES",MEGAPIX
 http://199.127.60.83:16048
 
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png"group-title="FILMES | SÉRIES",NCIS|PlutoTV
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png"group-title="FILMES | SÉRIES",NCIS|PlutoTV
 https://abrir.link/wxhst
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="CSI: MIAMI" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png"group-title="FILMES | SÉRIES",CSI: MIAMI|PlutoTV
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="CSI: MIAMI" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png"group-title="FILMES | SÉRIES",CSI: MIAMI|PlutoTV
 https://abrir.link/uVOtI
 
 #EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network" tvg-logo="https://github.com/Josildo72/TV/blob/main/LOGO/PARAMOUNT%20NETWORK.png?raw=true" group-title="FILMES | SÉRIES",PARAMOUNT NETWORK 
@@ -79,8 +79,10 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/73
 
 #####		🔶Canais | NOTÍCIAS🔶        ####
 
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1024px-BandNewsTV2024.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1024px-BandNewsTV2024.svg.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNNBrasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
